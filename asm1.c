@@ -22,7 +22,7 @@
 int main() {
     int chonChucNang;
 
-    do {
+    do{
         printf("Chon chuc nang:\n");
         printf("1. Kiem tra so nguyen\n");
         printf("2. Tim Uoc so chung va boi so chung cua 2 so\n");
