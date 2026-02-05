@@ -1,7 +1,7 @@
 /******************************************************************************
- * Họ và tên: [ĐIỀN TÊN TẠI ĐÂY]
- * MSSV:      [ĐIỀN MSSV TẠI ĐÂY]
- * Lớp:       [ĐIỀN LỚP TẠI ĐÂY]
+ * Họ và tên: [Nguyễn Võ Minh Đạt ]
+ * MSSV:      [PS49299]
+ * Lớp:       [COM-108]
  *****************************************************************************/
 
 // Danh sách các chức năng trong ASM1:
@@ -22,7 +22,7 @@
 int main() {
     int chonChucNang;
 
-    do {
+    do{
         printf("Chon chuc nang:\n");
         printf("1. Kiem tra so nguyen\n");
         printf("2. Tim Uoc so chung va boi so chung cua 2 so\n");
